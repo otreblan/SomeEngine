@@ -1,5 +1,7 @@
+#include <config.h>
 #include <gtk/gtk.h>
 
+///aaaaaaaaaaa
 static void activate(GtkApplication* app, gpointer user_data)
 {
 	GtkWidget *window;
